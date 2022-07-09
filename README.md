@@ -1,2 +1,6 @@
 # Dio-desafio-github-primeiro-reposit-rio
-Desafio de Projeto Git/Github
+## Projeto Git/Github :muscle:
+
+### Perfil linkedin:
+
+(https://www.linkedin.com/in/ivan-cesar-consoni/)
